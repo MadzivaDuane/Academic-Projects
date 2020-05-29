@@ -1,0 +1,1501 @@
+"","state","respondent_id","race","college","choice"
+"1","Apple Orchard",1,"tiger",1,1
+"2","Apple Orchard",2,"tiger",0,0
+"3","Apple Orchard",3,"tiger",0,0
+"4","Apple Orchard",4,"tiger",0,0
+"5","Apple Orchard",5,"tiger",0,1
+"6","Apple Orchard",6,"tiger",0,0
+"7","Apple Orchard",7,"bear",1,1
+"8","Apple Orchard",8,"tiger",0,1
+"9","Apple Orchard",9,"bear",0,0
+"10","Apple Orchard",10,"bear",1,0
+"11","Apple Orchard",11,"bear",1,1
+"12","Apple Orchard",12,"bear",1,0
+"13","Apple Orchard",13,"bear",0,1
+"14","Apple Orchard",14,"tiger",0,0
+"15","Apple Orchard",15,"bear",0,1
+"16","Apple Orchard",16,"tiger",1,1
+"17","Apple Orchard",17,"tiger",0,0
+"18","Apple Orchard",18,"tiger",0,0
+"19","Apple Orchard",19,"tiger",0,1
+"20","Apple Orchard",20,"bear",0,1
+"21","Apple Orchard",21,"tiger",0,1
+"22","Apple Orchard",22,"bear",0,0
+"23","Apple Orchard",23,"tiger",0,0
+"24","Apple Orchard",24,"bear",1,1
+"25","Apple Orchard",25,"bear",0,1
+"26","Apple Orchard",26,"bear",0,0
+"27","Apple Orchard",27,"tiger",0,0
+"28","Apple Orchard",28,"bear",0,1
+"29","Apple Orchard",29,"tiger",0,0
+"30","Apple Orchard",30,"bear",0,0
+"31","Apple Orchard",31,"bear",0,1
+"32","Apple Orchard",32,"bear",0,1
+"33","Apple Orchard",33,"tiger",1,1
+"34","Apple Orchard",34,"tiger",1,0
+"35","Apple Orchard",35,"tiger",0,0
+"36","Apple Orchard",36,"tiger",0,0
+"37","Apple Orchard",37,"bear",1,1
+"38","Apple Orchard",38,"bear",1,1
+"39","Apple Orchard",39,"bear",1,0
+"40","Apple Orchard",40,"tiger",0,0
+"41","Apple Orchard",41,"tiger",1,1
+"42","Apple Orchard",42,"tiger",1,1
+"43","Apple Orchard",43,"bear",1,1
+"44","Apple Orchard",44,"bear",0,0
+"45","Apple Orchard",45,"tiger",0,0
+"46","Apple Orchard",46,"tiger",1,1
+"47","Apple Orchard",47,"tiger",0,0
+"48","Apple Orchard",48,"bear",0,1
+"49","Apple Orchard",49,"bear",0,1
+"50","Apple Orchard",50,"tiger",0,0
+"51","Apple Orchard",51,"bear",0,0
+"52","Apple Orchard",52,"tiger",0,0
+"53","Apple Orchard",53,"bear",1,1
+"54","Apple Orchard",54,"tiger",1,0
+"55","Apple Orchard",55,"tiger",0,1
+"56","Apple Orchard",56,"bear",0,1
+"57","Apple Orchard",57,"tiger",0,0
+"58","Apple Orchard",58,"bear",1,1
+"59","Apple Orchard",59,"tiger",1,0
+"60","Apple Orchard",60,"tiger",0,1
+"61","Apple Orchard",61,"bear",1,0
+"62","Apple Orchard",62,"tiger",0,1
+"63","Apple Orchard",63,"bear",0,1
+"64","Apple Orchard",64,"bear",1,1
+"65","Apple Orchard",65,"tiger",1,1
+"66","Apple Orchard",66,"bear",1,1
+"67","Apple Orchard",67,"tiger",0,0
+"68","Apple Orchard",68,"tiger",0,1
+"69","Aspen",69,"tiger",1,0
+"70","Aspen",70,"bear",1,1
+"71","Aspen",71,"tiger",1,0
+"72","Aspen",72,"tiger",0,0
+"73","Aspen",73,"tiger",1,0
+"74","Aspen",74,"tiger",0,0
+"75","Aspen",75,"tiger",1,0
+"76","Aspen",76,"tiger",1,0
+"77","Aspen",77,"bear",1,1
+"78","Aspen",78,"tiger",1,0
+"79","Aspen",79,"tiger",0,1
+"80","Aspen",80,"tiger",0,0
+"81","Aspen",81,"tiger",0,0
+"82","Aspen",82,"bear",1,1
+"83","Aspen",83,"tiger",1,1
+"84","Aspen",84,"bear",0,1
+"85","Aspen",85,"bear",1,1
+"86","Aspen",86,"tiger",0,0
+"87","Aspen",87,"tiger",1,0
+"88","Aspen",88,"tiger",0,0
+"89","Aspen",89,"bear",1,0
+"90","Aspen",90,"bear",1,1
+"91","Aspen",91,"bear",0,1
+"92","Aspen",92,"bear",0,0
+"93","Aspen",93,"tiger",0,0
+"94","Aspen",94,"bear",1,1
+"95","Aspen",95,"bear",0,0
+"96","Aspen",96,"tiger",1,0
+"97","Aspen",97,"bear",0,1
+"98","Aspen",98,"bear",1,1
+"99","Aspen",99,"tiger",1,0
+"100","Aspen",100,"bear",1,1
+"101","Aspen",101,"bear",0,0
+"102","Aspen",102,"tiger",1,0
+"103","Aspen",103,"tiger",0,0
+"104","Aspen",104,"bear",0,1
+"105","Aspen",105,"bear",1,0
+"106","Aspen",106,"tiger",0,1
+"107","Aspen",107,"bear",0,1
+"108","Aspen",108,"tiger",1,1
+"109","Aspen",109,"bear",0,1
+"110","Aspen",110,"tiger",0,0
+"111","Aspen",111,"tiger",1,1
+"112","Aspen",112,"tiger",1,1
+"113","Aspen",113,"bear",1,1
+"114","Aspen",114,"bear",1,1
+"115","Aspen",115,"tiger",0,0
+"116","Aspen",116,"tiger",0,0
+"117","Aspen",117,"tiger",0,0
+"118","Aspen",118,"bear",0,1
+"119","Aspen",119,"tiger",0,0
+"120","Aspen",120,"bear",0,0
+"121","Aspen",121,"tiger",0,1
+"122","Crocus",122,"bear",0,0
+"123","Crocus",123,"bear",0,1
+"124","Crocus",124,"bear",0,1
+"125","Crocus",125,"bear",0,0
+"126","Crocus",126,"tiger",1,1
+"127","Crocus",127,"tiger",1,0
+"128","Crocus",128,"tiger",0,0
+"129","Crocus",129,"tiger",1,0
+"130","Crocus",130,"tiger",0,0
+"131","Crocus",131,"tiger",0,0
+"132","Crocus",132,"tiger",0,0
+"133","Crocus",133,"bear",1,0
+"134","Crocus",134,"bear",0,1
+"135","Crocus",135,"tiger",1,0
+"136","Crocus",136,"bear",1,1
+"137","Crocus",137,"bear",0,0
+"138","Crocus",138,"bear",1,1
+"139","Crocus",139,"tiger",0,0
+"140","Crocus",140,"bear",0,1
+"141","Crocus",141,"bear",1,1
+"142","Crocus",142,"bear",1,1
+"143","Crocus",143,"bear",1,1
+"144","Crocus",144,"bear",1,1
+"145","Crocus",145,"bear",1,1
+"146","Crocus",146,"bear",0,1
+"147","Crocus",147,"bear",1,1
+"148","Crocus",148,"tiger",1,1
+"149","Crocus",149,"tiger",1,0
+"150","Crocus",150,"bear",0,1
+"151","Crocus",151,"bear",1,1
+"152","Crocus",152,"tiger",0,0
+"153","Crocus",153,"tiger",0,1
+"154","Crocus",154,"bear",1,1
+"155","Crocus",155,"tiger",1,1
+"156","Crocus",156,"bear",1,1
+"157","Crocus",157,"tiger",0,0
+"158","Crocus",158,"bear",1,1
+"159","Crocus",159,"bear",1,1
+"160","Crocus",160,"tiger",0,0
+"161","Crocus",161,"tiger",1,1
+"162","Crocus",162,"bear",0,0
+"163","Crocus",163,"bear",1,1
+"164","Crocus",164,"tiger",1,1
+"165","Crocus",165,"tiger",0,0
+"166","Crocus",166,"bear",0,0
+"167","Crocus",167,"bear",1,1
+"168","Crocus",168,"bear",1,1
+"169","Crocus",169,"tiger",0,0
+"170","Crocus",170,"tiger",1,0
+"171","Crocus",171,"tiger",1,0
+"172","Crocus",172,"bear",1,1
+"173","Crocus",173,"bear",1,1
+"174","Crocus",174,"bear",0,1
+"175","Crocus",175,"tiger",0,0
+"176","Crocus",176,"bear",0,1
+"177","Crocus",177,"bear",0,0
+"178","Crocus",178,"bear",1,1
+"179","Crocus",179,"bear",0,1
+"180","Crocus",180,"bear",1,0
+"181","Crocus",181,"tiger",0,0
+"182","Crocus",182,"bear",1,1
+"183","Crocus",183,"bear",0,1
+"184","Crocus",184,"tiger",0,0
+"185","Crocus",185,"bear",1,1
+"186","Crocus",186,"tiger",1,1
+"187","Crocus",187,"tiger",0,0
+"188","Crocus",188,"bear",0,0
+"189","Crocus",189,"tiger",0,1
+"190","Daffodil",190,"bear",1,1
+"191","Daffodil",191,"tiger",0,0
+"192","Daffodil",192,"tiger",0,0
+"193","Daffodil",193,"bear",0,0
+"194","Daffodil",194,"bear",0,0
+"195","Daffodil",195,"tiger",0,0
+"196","Daffodil",196,"bear",0,0
+"197","Daffodil",197,"tiger",1,0
+"198","Daffodil",198,"tiger",0,0
+"199","Daffodil",199,"bear",1,1
+"200","Daffodil",200,"bear",1,1
+"201","Daffodil",201,"tiger",0,1
+"202","Daffodil",202,"bear",1,0
+"203","Daffodil",203,"bear",0,1
+"204","Daffodil",204,"tiger",0,0
+"205","Daffodil",205,"bear",1,1
+"206","Daffodil",206,"bear",0,0
+"207","Daffodil",207,"tiger",0,0
+"208","Daffodil",208,"bear",0,1
+"209","Daffodil",209,"bear",1,1
+"210","Daffodil",210,"tiger",0,0
+"211","Daffodil",211,"bear",1,1
+"212","Daffodil",212,"tiger",0,0
+"213","Daffodil",213,"tiger",0,0
+"214","Daffodil",214,"bear",0,0
+"215","Daffodil",215,"tiger",0,0
+"216","Daffodil",216,"bear",0,0
+"217","Daffodil",217,"bear",1,1
+"218","Daffodil",218,"bear",1,0
+"219","Daffodil",219,"tiger",1,0
+"220","Daffodil",220,"tiger",0,1
+"221","Daffodil",221,"bear",0,0
+"222","Daffodil",222,"bear",0,1
+"223","Daffodil",223,"tiger",0,0
+"224","Daffodil",224,"bear",0,0
+"225","Daffodil",225,"tiger",0,0
+"226","Daffodil",226,"tiger",1,0
+"227","Daffodil",227,"bear",1,1
+"228","Daffodil",228,"tiger",0,0
+"229","Daffodil",229,"tiger",0,0
+"230","Daffodil",230,"tiger",1,0
+"231","Daffodil",231,"tiger",0,0
+"232","Daffodil",232,"bear",1,0
+"233","Daffodil",233,"tiger",0,0
+"234","Daffodil",234,"tiger",0,0
+"235","Daffodil",235,"bear",0,0
+"236","Daffodil",236,"tiger",0,1
+"237","Daffodil",237,"tiger",0,0
+"238","Daffodil",238,"bear",0,1
+"239","Daffodil",239,"bear",1,1
+"240","Daffodil",240,"tiger",0,0
+"241","Daffodil",241,"bear",0,1
+"242","Daffodil",242,"tiger",0,1
+"243","Daffodil",243,"bear",0,0
+"244","Daffodil",244,"bear",0,0
+"245","Daffodil",245,"tiger",1,0
+"246","Daffodil",246,"tiger",1,1
+"247","Daffodil",247,"tiger",0,0
+"248","Daffodil",248,"bear",0,1
+"249","Daffodil",249,"tiger",1,0
+"250","Daffodil",250,"tiger",0,0
+"251","Dandelion",251,"tiger",0,1
+"252","Dandelion",252,"tiger",0,0
+"253","Dandelion",253,"bear",0,0
+"254","Dandelion",254,"bear",1,1
+"255","Dandelion",255,"tiger",1,1
+"256","Dandelion",256,"bear",0,0
+"257","Dandelion",257,"bear",0,1
+"258","Dandelion",258,"tiger",1,0
+"259","Dandelion",259,"bear",1,1
+"260","Dandelion",260,"bear",1,0
+"261","Dandelion",261,"tiger",0,0
+"262","Dandelion",262,"bear",1,1
+"263","Dandelion",263,"bear",0,0
+"264","Dandelion",264,"tiger",1,0
+"265","Dandelion",265,"tiger",1,1
+"266","Dandelion",266,"bear",0,0
+"267","Dandelion",267,"tiger",1,0
+"268","Dandelion",268,"tiger",0,1
+"269","Dandelion",269,"tiger",0,0
+"270","Dandelion",270,"tiger",1,0
+"271","Dandelion",271,"bear",1,1
+"272","Dandelion",272,"tiger",1,1
+"273","Dandelion",273,"bear",1,1
+"274","Dandelion",274,"bear",1,1
+"275","Dandelion",275,"tiger",1,1
+"276","Dandelion",276,"tiger",0,0
+"277","Dandelion",277,"tiger",1,0
+"278","Dandelion",278,"bear",0,0
+"279","Dandelion",279,"tiger",0,0
+"280","Dandelion",280,"tiger",0,1
+"281","Dandelion",281,"tiger",0,0
+"282","Dandelion",282,"tiger",1,0
+"283","Dandelion",283,"tiger",1,0
+"284","Dandelion",284,"tiger",1,0
+"285","Dandelion",285,"tiger",0,1
+"286","Dandelion",286,"tiger",1,0
+"287","Dandelion",287,"tiger",1,1
+"288","Dandelion",288,"bear",0,1
+"289","Eeyore's Gloomy Place",289,"tiger",0,0
+"290","Eeyore's Gloomy Place",290,"bear",0,1
+"291","Eeyore's Gloomy Place",291,"tiger",1,1
+"292","Eeyore's Gloomy Place",292,"tiger",0,0
+"293","Eeyore's Gloomy Place",293,"tiger",1,0
+"294","Eeyore's Gloomy Place",294,"tiger",1,1
+"295","Eeyore's Gloomy Place",295,"bear",0,1
+"296","Eeyore's Gloomy Place",296,"bear",0,0
+"297","Eeyore's Gloomy Place",297,"tiger",0,0
+"298","Eeyore's Gloomy Place",298,"tiger",1,0
+"299","Eeyore's Gloomy Place",299,"bear",0,1
+"300","Eeyore's Gloomy Place",300,"bear",1,0
+"301","Eeyore's Gloomy Place",301,"tiger",1,1
+"302","Eeyore's Gloomy Place",302,"tiger",0,0
+"303","Eeyore's Gloomy Place",303,"tiger",0,0
+"304","Eeyore's Gloomy Place",304,"tiger",0,0
+"305","Eeyore's Gloomy Place",305,"tiger",0,1
+"306","Eeyore's Gloomy Place",306,"tiger",0,0
+"307","Eeyore's Gloomy Place",307,"bear",0,1
+"308","Eeyore's Gloomy Place",308,"tiger",1,0
+"309","Eeyore's Gloomy Place",309,"bear",0,0
+"310","Eeyore's Gloomy Place",310,"bear",0,1
+"311","Eeyore's Gloomy Place",311,"tiger",1,1
+"312","Eeyore's Gloomy Place",312,"tiger",1,1
+"313","Eeyore's Gloomy Place",313,"tiger",0,0
+"314","Eeyore's Gloomy Place",314,"tiger",0,0
+"315","Eeyore's Gloomy Place",315,"bear",1,1
+"316","Eeyore's Gloomy Place",316,"bear",1,1
+"317","Eeyore's Gloomy Place",317,"bear",0,1
+"318","Eeyore's Gloomy Place",318,"tiger",0,0
+"319","Eeyore's Gloomy Place",319,"tiger",0,0
+"320","Eeyore's Gloomy Place",320,"tiger",1,1
+"321","Eeyore's Gloomy Place",321,"bear",1,1
+"322","Eeyore's Gloomy Place",322,"tiger",0,0
+"323","Eeyore's Gloomy Place",323,"bear",1,1
+"324","Eeyore's Gloomy Place",324,"tiger",0,1
+"325","Eeyore's Gloomy Place",325,"tiger",0,0
+"326","Eeyore's Gloomy Place",326,"bear",1,1
+"327","Elm",327,"tiger",0,1
+"328","Elm",328,"bear",1,1
+"329","Elm",329,"tiger",0,1
+"330","Elm",330,"tiger",1,0
+"331","Elm",331,"tiger",1,1
+"332","Elm",332,"tiger",1,0
+"333","Elm",333,"tiger",0,0
+"334","Elm",334,"tiger",0,1
+"335","Elm",335,"tiger",0,0
+"336","Elm",336,"tiger",1,0
+"337","Elm",337,"bear",0,0
+"338","Elm",338,"tiger",1,0
+"339","Elm",339,"tiger",0,1
+"340","Elm",340,"tiger",1,1
+"341","Elm",341,"tiger",1,0
+"342","Elm",342,"bear",0,0
+"343","Elm",343,"bear",1,1
+"344","Elm",344,"tiger",1,0
+"345","Elm",345,"tiger",0,0
+"346","Elm",346,"bear",1,1
+"347","Elm",347,"tiger",1,1
+"348","Elm",348,"tiger",0,1
+"349","Elm",349,"tiger",1,1
+"350","Elm",350,"bear",1,1
+"351","Elm",351,"tiger",0,1
+"352","Elm",352,"tiger",1,0
+"353","Elm",353,"tiger",0,0
+"354","Elm",354,"bear",1,0
+"355","Elm",355,"tiger",0,0
+"356","Elm",356,"tiger",0,1
+"357","Elm",357,"bear",0,1
+"358","Elm",358,"tiger",1,0
+"359","Elm",359,"bear",0,1
+"360","Elm",360,"bear",1,1
+"361","Elm",361,"tiger",1,0
+"362","Elm",362,"bear",1,1
+"363","Elm",363,"tiger",1,0
+"364","Elm",364,"tiger",0,0
+"365","Flower Town",365,"tiger",0,0
+"366","Flower Town",366,"tiger",0,0
+"367","Flower Town",367,"tiger",0,0
+"368","Flower Town",368,"tiger",1,0
+"369","Flower Town",369,"tiger",1,0
+"370","Flower Town",370,"bear",0,0
+"371","Flower Town",371,"bear",1,1
+"372","Flower Town",372,"tiger",1,0
+"373","Flower Town",373,"tiger",1,0
+"374","Flower Town",374,"tiger",0,0
+"375","Flower Town",375,"tiger",1,0
+"376","Flower Town",376,"tiger",0,0
+"377","Flower Town",377,"bear",1,0
+"378","Flower Town",378,"tiger",0,0
+"379","Flower Town",379,"bear",1,0
+"380","Flower Town",380,"bear",0,1
+"381","Flower Town",381,"tiger",0,1
+"382","Flower Town",382,"tiger",0,1
+"383","Flower Town",383,"tiger",1,1
+"384","Flower Town",384,"tiger",0,0
+"385","Flower Town",385,"bear",0,1
+"386","Flower Town",386,"tiger",1,1
+"387","Flower Town",387,"tiger",0,0
+"388","Flower Town",388,"bear",1,1
+"389","Flower Town",389,"tiger",1,0
+"390","Flower Town",390,"tiger",1,0
+"391","Flower Town",391,"tiger",0,0
+"392","Flower Town",392,"bear",0,1
+"393","Flower Town",393,"bear",1,1
+"394","Flower Town",394,"bear",0,1
+"395","Flower Town",395,"tiger",0,0
+"396","Flower Town",396,"tiger",0,0
+"397","Flower Town",397,"tiger",0,0
+"398","Flower Town",398,"tiger",1,1
+"399","Flower Town",399,"tiger",1,0
+"400","Flower Town",400,"tiger",0,0
+"401","Flower Town",401,"bear",0,0
+"402","Flower Town",402,"bear",0,1
+"403","Flower Town",403,"bear",1,1
+"404","Flower Town",404,"tiger",0,0
+"405","Flower Town",405,"bear",1,1
+"406","Flower Town",406,"tiger",0,1
+"407","Flower Town",407,"bear",1,1
+"408","Flower Town",408,"tiger",0,0
+"409","Flower Town",409,"tiger",0,0
+"410","Flower Town",410,"tiger",0,0
+"411","Flower Town",411,"bear",0,0
+"412","Flower Town",412,"bear",0,1
+"413","Flower Town",413,"bear",0,1
+"414","Flower Town",414,"tiger",0,1
+"415","Flower Town",415,"tiger",0,0
+"416","Flower Town",416,"tiger",0,0
+"417","Flower Town",417,"tiger",1,0
+"418","Goldenrod",418,"tiger",0,0
+"419","Goldenrod",419,"tiger",0,0
+"420","Goldenrod",420,"tiger",0,1
+"421","Goldenrod",421,"tiger",0,0
+"422","Goldenrod",422,"tiger",0,0
+"423","Goldenrod",423,"bear",0,1
+"424","Goldenrod",424,"tiger",0,0
+"425","Goldenrod",425,"bear",0,1
+"426","Goldenrod",426,"bear",1,1
+"427","Goldenrod",427,"tiger",0,1
+"428","Goldenrod",428,"tiger",0,0
+"429","Goldenrod",429,"tiger",0,1
+"430","Goldenrod",430,"tiger",0,1
+"431","Goldenrod",431,"bear",1,0
+"432","Goldenrod",432,"tiger",1,1
+"433","Goldenrod",433,"tiger",0,0
+"434","Goldenrod",434,"tiger",1,0
+"435","Goldenrod",435,"tiger",1,0
+"436","Goldenrod",436,"tiger",1,0
+"437","Goldenrod",437,"tiger",0,1
+"438","Goldenrod",438,"tiger",1,0
+"439","Goldenrod",439,"bear",1,0
+"440","Goldenrod",440,"tiger",0,0
+"441","Grassy Field",441,"tiger",1,1
+"442","Grassy Field",442,"bear",0,1
+"443","Grassy Field",443,"bear",0,0
+"444","Grassy Field",444,"tiger",1,0
+"445","Grassy Field",445,"tiger",0,0
+"446","Grassy Field",446,"bear",0,0
+"447","Grassy Field",447,"bear",0,1
+"448","Grassy Field",448,"bear",0,0
+"449","Grassy Field",449,"tiger",0,1
+"450","Grassy Field",450,"tiger",1,0
+"451","Grassy Field",451,"tiger",1,1
+"452","Grassy Field",452,"tiger",0,0
+"453","Grassy Field",453,"bear",0,0
+"454","Grassy Field",454,"bear",0,1
+"455","Grassy Field",455,"tiger",1,0
+"456","Grassy Field",456,"bear",1,1
+"457","Grassy Field",457,"bear",0,0
+"458","Grassy Field",458,"bear",0,1
+"459","Grassy Field",459,"tiger",0,0
+"460","Grassy Field",460,"tiger",0,1
+"461","Grassy Field",461,"bear",0,1
+"462","Grassy Field",462,"bear",1,0
+"463","Grassy Field",463,"tiger",1,0
+"464","Grassy Field",464,"tiger",1,1
+"465","Grassy Field",465,"tiger",1,1
+"466","Grassy Field",466,"bear",1,0
+"467","Grassy Field",467,"tiger",1,1
+"468","Grassy Field",468,"bear",0,0
+"469","Grassy Field",469,"tiger",1,0
+"470","Grassy Field",470,"tiger",0,1
+"471","Grassy Field",471,"tiger",1,1
+"472","Grassy Field",472,"bear",1,1
+"473","Grassy Field",473,"tiger",1,0
+"474","Grassy Field",474,"bear",0,1
+"475","Grassy Field",475,"tiger",0,0
+"476","Grassy Field",476,"tiger",0,1
+"477","Grassy Field",477,"tiger",1,1
+"478","Grassy Field",478,"bear",1,1
+"479","Grassy Field",479,"tiger",1,0
+"480","Grassy Field",480,"tiger",0,0
+"481","Grassy Field",481,"bear",0,1
+"482","Grassy Field",482,"tiger",0,0
+"483","Grassy Field",483,"bear",0,1
+"484","Grassy Field",484,"tiger",0,0
+"485","Grassy Field",485,"bear",1,1
+"486","Grassy Field",486,"tiger",0,1
+"487","Grassy Field",487,"bear",0,0
+"488","Grassy Field",488,"tiger",1,1
+"489","Grassy Field",489,"bear",0,1
+"490","Grassy Field",490,"tiger",1,0
+"491","Grassy Field",491,"bear",0,0
+"492","Grassy Field",492,"bear",0,0
+"493","Grassy Field",493,"tiger",0,0
+"494","Grassy Field",494,"bear",1,1
+"495","Grassy Field",495,"tiger",0,1
+"496","Grassy Field",496,"bear",0,1
+"497","Grassy Field",497,"bear",1,1
+"498","Grassy Field",498,"bear",0,1
+"499","Grassy Field",499,"bear",0,1
+"500","Grassy Field",500,"tiger",1,1
+"501","Grassy Field",501,"bear",0,0
+"502","Grassy Field",502,"tiger",1,0
+"503","Grassy Field",503,"tiger",1,1
+"504","Grassy Field",504,"bear",1,0
+"505","Grassy Field",505,"bear",0,0
+"506","Grassy Field",506,"bear",1,1
+"507","Grassy Field",507,"bear",1,1
+"508","Grassy Field",508,"bear",0,0
+"509","Thistle",509,"bear",0,0
+"510","Thistle",510,"bear",0,0
+"511","Thistle",511,"bear",0,0
+"512","Thistle",512,"bear",1,0
+"513","Thistle",513,"tiger",0,0
+"514","Thistle",514,"tiger",1,0
+"515","Thistle",515,"bear",0,0
+"516","Thistle",516,"bear",1,1
+"517","Thistle",517,"bear",1,1
+"518","Thistle",518,"bear",0,1
+"519","Thistle",519,"tiger",1,1
+"520","Thistle",520,"bear",0,0
+"521","Thistle",521,"bear",0,1
+"522","Thistle",522,"tiger",0,0
+"523","Thistle",523,"bear",0,0
+"524","Thistle",524,"tiger",0,0
+"525","Thistle",525,"bear",1,1
+"526","Thistle",526,"bear",1,1
+"527","Thistle",527,"bear",1,1
+"528","Thistle",528,"bear",1,1
+"529","Thistle",529,"bear",1,0
+"530","Thistle",530,"bear",0,1
+"531","Thistle",531,"tiger",1,0
+"532","Thistle",532,"tiger",1,0
+"533","Thistle",533,"tiger",0,0
+"534","Thistle",534,"tiger",0,0
+"535","Thistle",535,"tiger",0,0
+"536","Thistle",536,"bear",0,0
+"537","Thistle",537,"bear",1,0
+"538","Thistle",538,"tiger",1,1
+"539","Thistle",539,"bear",0,0
+"540","Thistle",540,"bear",0,1
+"541","Thistle",541,"bear",1,0
+"542","Thistle",542,"bear",0,1
+"543","Thistle",543,"tiger",1,0
+"544","Thistle",544,"bear",0,1
+"545","Thistle",545,"tiger",0,0
+"546","Thistle",546,"tiger",1,0
+"547","Thistle",547,"bear",0,0
+"548","Thistle",548,"bear",1,0
+"549","Thistle",549,"bear",0,1
+"550","Thistle",550,"bear",1,0
+"551","Thistle",551,"tiger",0,1
+"552","Thistle",552,"bear",0,0
+"553","Thistle",553,"bear",0,1
+"554","Thistle",554,"bear",0,1
+"555","Thistle",555,"tiger",1,1
+"556","Thistle",556,"bear",1,1
+"557","Thistle",557,"tiger",1,0
+"558","Thistle",558,"bear",1,1
+"559","Thistle",559,"bear",0,0
+"560","Thistle",560,"bear",0,1
+"561","Thistle",561,"bear",0,1
+"562","Thistle",562,"bear",0,0
+"563","Thistle",563,"tiger",0,0
+"564","Thistle",564,"tiger",1,0
+"565","Thistle",565,"bear",0,0
+"566","Thistle",566,"bear",0,1
+"567","Thistle",567,"bear",0,1
+"568","Thistle",568,"bear",0,1
+"569","Thistle",569,"tiger",1,1
+"570","Thistle",570,"bear",1,1
+"571","Thistle",571,"bear",0,0
+"572","Thistle",572,"bear",1,1
+"573","Thistle",573,"bear",1,1
+"574","Thistle",574,"bear",0,1
+"575","Thistle",575,"bear",0,1
+"576","Thistle",576,"bear",1,1
+"577","Thistle",577,"tiger",0,0
+"578","Thistle",578,"bear",1,1
+"579","Thistle",579,"tiger",1,1
+"580","Thistle",580,"tiger",1,0
+"581","Thistle",581,"tiger",1,0
+"582","Thistle",582,"bear",0,1
+"583","Thistle",583,"bear",0,1
+"584","Thistle",584,"bear",0,0
+"585","Linden",585,"bear",0,1
+"586","Linden",586,"bear",1,1
+"587","Linden",587,"bear",1,1
+"588","Linden",588,"bear",0,1
+"589","Linden",589,"tiger",1,1
+"590","Linden",590,"bear",1,1
+"591","Linden",591,"bear",1,1
+"592","Linden",592,"tiger",0,0
+"593","Linden",593,"bear",0,1
+"594","Linden",594,"bear",1,1
+"595","Linden",595,"tiger",1,0
+"596","Linden",596,"tiger",0,0
+"597","Linden",597,"tiger",0,0
+"598","Linden",598,"bear",0,1
+"599","Linden",599,"bear",0,1
+"600","Linden",600,"bear",0,1
+"601","Linden",601,"bear",1,0
+"602","Linden",602,"bear",0,0
+"603","Linden",603,"tiger",0,0
+"604","Linden",604,"tiger",1,1
+"605","Linden",605,"bear",1,1
+"606","Linden",606,"bear",0,1
+"607","Linden",607,"tiger",0,1
+"608","Linden",608,"tiger",1,1
+"609","Linden",609,"tiger",1,0
+"610","Linden",610,"bear",1,0
+"611","Linden",611,"bear",0,0
+"612","Linden",612,"tiger",0,0
+"613","Linden",613,"tiger",1,0
+"614","Linden",614,"bear",0,0
+"615","Linden",615,"tiger",0,0
+"616","Linden",616,"tiger",0,0
+"617","Linden",617,"bear",1,0
+"618","Linden",618,"bear",1,1
+"619","Linden",619,"tiger",0,1
+"620","Linden",620,"tiger",0,0
+"621","Linden",621,"bear",0,0
+"622","Linden",622,"tiger",0,0
+"623","Linden",623,"bear",1,1
+"624","Linden",624,"bear",0,0
+"625","Linden",625,"tiger",0,1
+"626","Linden",626,"tiger",1,1
+"627","Linden",627,"tiger",1,0
+"628","Linden",628,"tiger",0,1
+"629","Linden",629,"tiger",1,0
+"630","Linden",630,"bear",1,1
+"631","Linden",631,"tiger",0,1
+"632","Linden",632,"bear",0,0
+"633","Linden",633,"tiger",0,1
+"634","Linden",634,"bear",0,0
+"635","Linden",635,"bear",0,1
+"636","Linden",636,"tiger",1,0
+"637","Linden",637,"bear",1,0
+"638","Linden",638,"bear",0,1
+"639","Linden",639,"tiger",1,1
+"640","Linden",640,"bear",1,0
+"641","Linden",641,"bear",0,1
+"642","Linden",642,"tiger",0,0
+"643","Linden",643,"tiger",1,0
+"644","Linden",644,"bear",1,1
+"645","Linden",645,"bear",0,0
+"646","Linden",646,"tiger",0,1
+"647","Linden",647,"tiger",1,1
+"648","Linden",648,"bear",0,1
+"649","Linden",649,"bear",0,0
+"650","Linden",650,"bear",1,0
+"651","Linden",651,"bear",1,1
+"652","Linden",652,"tiger",1,0
+"653","Maple",653,"bear",0,0
+"654","Maple",654,"bear",1,1
+"655","Maple",655,"bear",0,0
+"656","Maple",656,"tiger",1,0
+"657","Maple",657,"bear",1,0
+"658","Maple",658,"tiger",1,0
+"659","Maple",659,"bear",0,1
+"660","Maple",660,"bear",1,1
+"661","Maple",661,"tiger",1,1
+"662","Maple",662,"bear",0,0
+"663","Maple",663,"bear",0,1
+"664","Maple",664,"bear",1,1
+"665","Maple",665,"tiger",0,0
+"666","Maple",666,"tiger",0,0
+"667","Maple",667,"bear",1,1
+"668","Maple",668,"tiger",1,1
+"669","Maple",669,"bear",0,0
+"670","Maple",670,"bear",0,1
+"671","Maple",671,"bear",0,0
+"672","Maple",672,"bear",1,1
+"673","Maple",673,"bear",1,1
+"674","Maple",674,"bear",1,1
+"675","Maple",675,"bear",0,1
+"676","Maple",676,"bear",1,1
+"677","Maple",677,"tiger",0,0
+"678","Maple",678,"tiger",1,0
+"679","Maple",679,"tiger",0,1
+"680","Maple",680,"tiger",1,0
+"681","Maple",681,"bear",0,0
+"682","Maple",682,"bear",0,0
+"683","Maple",683,"bear",0,1
+"684","Maple",684,"bear",0,1
+"685","Maple",685,"bear",0,0
+"686","Maple",686,"bear",0,0
+"687","Maple",687,"tiger",0,0
+"688","Maple",688,"bear",1,0
+"689","Maple",689,"bear",1,1
+"690","Maple",690,"bear",1,0
+"691","Maple",691,"bear",0,1
+"692","Maple",692,"bear",0,1
+"693","Maple",693,"bear",1,0
+"694","Maple",694,"bear",1,1
+"695","Maple",695,"bear",1,0
+"696","Maple",696,"bear",0,1
+"697","Maple",697,"bear",0,0
+"698","Maple",698,"tiger",0,0
+"699","Maple",699,"tiger",0,1
+"700","Maple",700,"bear",1,1
+"701","Maple",701,"bear",1,1
+"702","Maple",702,"tiger",0,1
+"703","Maple",703,"tiger",1,1
+"704","Maple",704,"bear",0,1
+"705","Maple",705,"bear",1,1
+"706","Maple",706,"bear",0,1
+"707","Maple",707,"bear",0,1
+"708","Maple",708,"tiger",1,0
+"709","Maple",709,"bear",0,1
+"710","Maple",710,"bear",1,0
+"711","Maple",711,"bear",0,1
+"712","Maple",712,"bear",1,1
+"713","Maple",713,"bear",0,1
+"714","Maple",714,"bear",0,0
+"715","Maple",715,"bear",0,0
+"716","Maple",716,"tiger",0,1
+"717","Maple",717,"bear",1,1
+"718","Maple",718,"bear",0,1
+"719","Maple",719,"bear",0,1
+"720","Maple",720,"bear",0,0
+"721","Maple",721,"tiger",0,0
+"722","Maple",722,"bear",1,1
+"723","Maple",723,"bear",1,1
+"724","Maple",724,"tiger",1,0
+"725","Maple",725,"tiger",1,1
+"726","Maple",726,"bear",1,1
+"727","Maple",727,"bear",1,1
+"728","Maple",728,"bear",1,1
+"729","Oak Haven",729,"tiger",0,0
+"730","Oak Haven",730,"tiger",0,1
+"731","Oak Haven",731,"tiger",0,1
+"732","Oak Haven",732,"tiger",1,0
+"733","Oak Haven",733,"tiger",0,0
+"734","Oak Haven",734,"tiger",1,1
+"735","Oak Haven",735,"tiger",1,1
+"736","Oak Haven",736,"bear",0,0
+"737","Oak Haven",737,"bear",0,0
+"738","Oak Haven",738,"tiger",1,0
+"739","Oak Haven",739,"tiger",1,0
+"740","Oak Haven",740,"bear",1,0
+"741","Oak Haven",741,"bear",0,0
+"742","Oak Haven",742,"tiger",1,0
+"743","Oak Haven",743,"tiger",0,0
+"744","Oak Haven",744,"bear",1,0
+"745","Oak Haven",745,"tiger",0,0
+"746","Oak Haven",746,"bear",0,0
+"747","Oak Haven",747,"bear",1,1
+"748","Oak Haven",748,"tiger",0,1
+"749","Oak Haven",749,"tiger",1,0
+"750","Oak Haven",750,"tiger",1,0
+"751","Oak Haven",751,"tiger",1,0
+"752","Oak Haven",752,"tiger",1,0
+"753","Oak Haven",753,"bear",0,1
+"754","Oak Haven",754,"tiger",1,0
+"755","Oak Haven",755,"tiger",0,0
+"756","Oak Haven",756,"tiger",0,0
+"757","Oak Haven",757,"bear",0,0
+"758","Oak Haven",758,"tiger",0,0
+"759","Oak Haven",759,"bear",0,1
+"760","Oak Haven",760,"tiger",1,0
+"761","Oak Haven",761,"bear",0,0
+"762","Oak Haven",762,"bear",0,0
+"763","Oak Haven",763,"tiger",0,0
+"764","Oak Haven",764,"bear",0,0
+"765","Oak Haven",765,"tiger",1,1
+"766","Oak Haven",766,"tiger",0,1
+"767","Oak Haven",767,"bear",0,1
+"768","Oak Haven",768,"tiger",0,0
+"769","Oak Haven",769,"tiger",0,0
+"770","Oak Haven",770,"tiger",1,1
+"771","Oak Haven",771,"tiger",0,0
+"772","Oak Haven",772,"bear",1,1
+"773","Oak Haven",773,"tiger",0,0
+"774","Oak Haven",774,"tiger",1,0
+"775","Oak Haven",775,"tiger",1,0
+"776","Oak Haven",776,"tiger",1,0
+"777","Oak Haven",777,"tiger",1,0
+"778","Oak Haven",778,"bear",0,1
+"779","Oak Haven",779,"tiger",0,0
+"780","Oak Haven",780,"tiger",1,0
+"781","Oak Haven",781,"tiger",0,0
+"782","Owl's House",782,"tiger",1,0
+"783","Owl's House",783,"bear",1,1
+"784","Owl's House",784,"tiger",0,0
+"785","Owl's House",785,"tiger",1,0
+"786","Owl's House",786,"tiger",1,1
+"787","Owl's House",787,"tiger",1,1
+"788","Owl's House",788,"tiger",1,0
+"789","Owl's House",789,"bear",0,1
+"790","Owl's House",790,"tiger",0,0
+"791","Owl's House",791,"bear",1,0
+"792","Owl's House",792,"tiger",0,0
+"793","Owl's House",793,"bear",1,0
+"794","Owl's House",794,"tiger",1,1
+"795","Owl's House",795,"bear",0,0
+"796","Owl's House",796,"bear",1,0
+"797","Owl's House",797,"tiger",1,0
+"798","Owl's House",798,"bear",1,0
+"799","Owl's House",799,"bear",1,1
+"800","Owl's House",800,"bear",0,0
+"801","Owl's House",801,"bear",0,1
+"802","Owl's House",802,"bear",0,0
+"803","Owl's House",803,"tiger",1,0
+"804","Owl's House",804,"tiger",0,0
+"805","Owl's House",805,"tiger",1,0
+"806","Owl's House",806,"bear",1,1
+"807","Owl's House",807,"bear",0,0
+"808","Owl's House",808,"bear",0,1
+"809","Owl's House",809,"tiger",0,1
+"810","Owl's House",810,"tiger",0,0
+"811","Owl's House",811,"tiger",0,0
+"812","Owl's House",812,"tiger",1,1
+"813","Owl's House",813,"bear",1,1
+"814","Owl's House",814,"tiger",0,0
+"815","Owl's House",815,"tiger",0,0
+"816","Owl's House",816,"tiger",1,1
+"817","Owl's House",817,"tiger",0,0
+"818","Owl's House",818,"tiger",0,0
+"819","Owl's House",819,"bear",0,1
+"820","Owl's House",820,"tiger",0,0
+"821","Owl's House",821,"tiger",1,0
+"822","Owl's House",822,"tiger",0,0
+"823","Owl's House",823,"tiger",1,0
+"824","Owl's House",824,"bear",1,0
+"825","Owl's House",825,"tiger",0,0
+"826","Owl's House",826,"tiger",1,0
+"827","Owl's House",827,"tiger",0,0
+"828","Owl's House",828,"tiger",1,0
+"829","Owl's House",829,"bear",1,1
+"830","Owl's House",830,"tiger",1,1
+"831","Owl's House",831,"bear",0,1
+"832","Owl's House",832,"bear",0,0
+"833","Owl's House",833,"bear",0,0
+"834","Owl's House",834,"bear",1,1
+"835","Poohsticks Bridge",835,"tiger",0,1
+"836","Poohsticks Bridge",836,"tiger",1,0
+"837","Poohsticks Bridge",837,"tiger",0,0
+"838","Poohsticks Bridge",838,"bear",0,1
+"839","Poohsticks Bridge",839,"tiger",0,0
+"840","Poohsticks Bridge",840,"tiger",1,0
+"841","Poohsticks Bridge",841,"tiger",0,0
+"842","Poohsticks Bridge",842,"tiger",0,0
+"843","Poohsticks Bridge",843,"bear",1,0
+"844","Poohsticks Bridge",844,"tiger",0,0
+"845","Poohsticks Bridge",845,"tiger",0,1
+"846","Poohsticks Bridge",846,"bear",0,0
+"847","Poohsticks Bridge",847,"bear",1,0
+"848","Poohsticks Bridge",848,"bear",0,0
+"849","Poohsticks Bridge",849,"tiger",1,0
+"850","Poohsticks Bridge",850,"tiger",0,0
+"851","Poohsticks Bridge",851,"tiger",0,0
+"852","Poohsticks Bridge",852,"tiger",1,0
+"853","Poohsticks Bridge",853,"bear",0,0
+"854","Poohsticks Bridge",854,"tiger",1,0
+"855","Poohsticks Bridge",855,"bear",0,0
+"856","Poohsticks Bridge",856,"tiger",0,0
+"857","Poohsticks Bridge",857,"tiger",0,0
+"858","Poohsticks Bridge",858,"bear",0,0
+"859","Poohsticks Bridge",859,"tiger",1,0
+"860","Poohsticks Bridge",860,"tiger",0,0
+"861","Poohsticks Bridge",861,"bear",0,0
+"862","Poohsticks Bridge",862,"bear",1,0
+"863","Poohsticks Bridge",863,"tiger",1,1
+"864","Poohsticks Bridge",864,"tiger",1,0
+"865","Poohsticks Bridge",865,"tiger",0,1
+"866","Poohsticks Bridge",866,"tiger",1,1
+"867","Poohsticks Bridge",867,"tiger",1,0
+"868","Poohsticks Bridge",868,"tiger",1,0
+"869","Poohsticks Bridge",869,"bear",0,1
+"870","Poohsticks Bridge",870,"tiger",1,1
+"871","Poohsticks Bridge",871,"bear",1,1
+"872","Poohsticks Bridge",872,"tiger",1,0
+"873","Poohsticks Bridge",873,"tiger",1,0
+"874","Poohsticks Bridge",874,"bear",0,0
+"875","Poohsticks Bridge",875,"tiger",0,0
+"876","Poohsticks Bridge",876,"bear",1,1
+"877","Poohsticks Bridge",877,"tiger",1,0
+"878","Poohsticks Bridge",878,"tiger",0,0
+"879","Poohsticks Bridge",879,"tiger",0,0
+"880","Poohsticks Bridge",880,"bear",1,0
+"881","Poohsticks Bridge",881,"tiger",0,1
+"882","Poohsticks Bridge",882,"bear",0,1
+"883","Poohsticks Bridge",883,"tiger",0,0
+"884","Poohsticks Bridge",884,"bear",0,0
+"885","Poohsticks Bridge",885,"tiger",0,1
+"886","Poohsticks Bridge",886,"tiger",0,0
+"887","Poohsticks Bridge",887,"tiger",1,1
+"888","Poohsticks Bridge",888,"tiger",1,1
+"889","Poohsticks Bridge",889,"bear",0,1
+"890","Poohsticks Bridge",890,"tiger",0,1
+"891","Poohsticks Bridge",891,"tiger",1,1
+"892","Poohsticks Bridge",892,"tiger",1,0
+"893","Poohsticks Bridge",893,"tiger",0,0
+"894","Poohsticks Bridge",894,"bear",0,0
+"895","Poohsticks Bridge",895,"tiger",0,0
+"896","Poplar Point",896,"bear",1,1
+"897","Poplar Point",897,"tiger",0,1
+"898","Poplar Point",898,"tiger",1,0
+"899","Poplar Point",899,"tiger",0,0
+"900","Poplar Point",900,"bear",0,1
+"901","Poplar Point",901,"bear",0,0
+"902","Poplar Point",902,"bear",0,1
+"903","Poplar Point",903,"bear",0,1
+"904","Poplar Point",904,"bear",0,1
+"905","Poplar Point",905,"tiger",1,1
+"906","Poplar Point",906,"bear",1,0
+"907","Poplar Point",907,"tiger",0,0
+"908","Poplar Point",908,"bear",1,0
+"909","Poplar Point",909,"bear",0,0
+"910","Poplar Point",910,"bear",1,1
+"911","Poplar Point",911,"bear",1,1
+"912","Poplar Point",912,"bear",1,1
+"913","Poplar Point",913,"bear",0,1
+"914","Poplar Point",914,"bear",0,0
+"915","Poplar Point",915,"bear",0,1
+"916","Poplar Point",916,"bear",1,0
+"917","Poplar Point",917,"bear",1,1
+"918","Poplar Point",918,"bear",0,1
+"919","Poplar Point",919,"bear",0,0
+"920","Poplar Point",920,"bear",0,0
+"921","Poplar Point",921,"bear",0,0
+"922","Poplar Point",922,"bear",0,1
+"923","Poplar Point",923,"bear",1,0
+"924","Poplar Point",924,"bear",1,1
+"925","Poplar Point",925,"bear",1,1
+"926","Poplar Point",926,"bear",0,0
+"927","Poplar Point",927,"bear",0,1
+"928","Poplar Point",928,"bear",0,1
+"929","Poplar Point",929,"bear",0,0
+"930","Poplar Point",930,"bear",1,1
+"931","Poplar Point",931,"bear",1,1
+"932","Poplar Point",932,"tiger",0,1
+"933","Poplar Point",933,"bear",0,1
+"934","Poplar Point",934,"bear",0,1
+"935","Poplar Point",935,"bear",0,1
+"936","Poplar Point",936,"tiger",1,1
+"937","Poplar Point",937,"bear",0,0
+"938","Poplar Point",938,"tiger",0,0
+"939","Poplar Point",939,"bear",0,0
+"940","Poplar Point",940,"bear",1,1
+"941","Poplar Point",941,"bear",1,1
+"942","Poplar Point",942,"bear",1,0
+"943","Poplar Point",943,"bear",0,1
+"944","Poplar Point",944,"bear",1,1
+"945","Poplar Point",945,"bear",1,1
+"946","Poplar Point",946,"bear",0,1
+"947","Poplar Point",947,"bear",0,0
+"948","Poplar Point",948,"bear",1,1
+"949","Poplar Point",949,"tiger",1,0
+"950","Poplar Point",950,"bear",0,1
+"951","Poplar Point",951,"tiger",1,1
+"952","Poplar Point",952,"bear",0,1
+"953","Poplar Point",953,"bear",0,0
+"954","Poplar Point",954,"bear",0,1
+"955","Poplar Point",955,"bear",1,0
+"956","Poplar Point",956,"bear",0,1
+"957","Poplar Point",957,"bear",0,0
+"958","Poplar Point",958,"bear",1,1
+"959","Poplar Point",959,"bear",0,1
+"960","Poplar Point",960,"bear",1,0
+"961","Poplar Point",961,"bear",1,1
+"962","Poplar Point",962,"bear",0,1
+"963","Poplar Point",963,"bear",1,1
+"964","Poplar Point",964,"tiger",1,1
+"965","Poplar Point",965,"tiger",1,0
+"966","Poplar Point",966,"bear",0,0
+"967","Poplar Point",967,"bear",0,1
+"968","Poplar Point",968,"bear",0,1
+"969","Poplar Point",969,"bear",0,1
+"970","Poplar Point",970,"bear",1,0
+"971","Poplar Point",971,"bear",1,1
+"972","Poplar Point",972,"tiger",1,1
+"973","Poplar Point",973,"tiger",1,0
+"974","Poplar Point",974,"bear",0,1
+"975","Poplar Point",975,"bear",1,1
+"976","Poplar Point",976,"bear",0,0
+"977","Poplar Point",977,"tiger",0,1
+"978","Poplar Point",978,"bear",0,0
+"979","Poplar Point",979,"bear",1,1
+"980","Poplar Point",980,"bear",1,1
+"981","Poplar Point",981,"bear",1,1
+"982","Poplar Point",982,"bear",0,1
+"983","Poplar Point",983,"bear",1,1
+"984","Poplar Point",984,"bear",1,0
+"985","Poplar Point",985,"bear",0,0
+"986","Poplar Point",986,"bear",0,0
+"987","Poplar Point",987,"tiger",1,0
+"988","Poplar Point",988,"tiger",0,1
+"989","Poplar Point",989,"bear",0,1
+"990","Poplar Point",990,"tiger",0,1
+"991","Poplar Point",991,"bear",1,1
+"992","Poplar Point",992,"bear",0,1
+"993","Poplar Point",993,"bear",0,1
+"994","Puddleton",994,"tiger",0,0
+"995","Puddleton",995,"bear",0,0
+"996","Puddleton",996,"bear",0,1
+"997","Puddleton",997,"bear",1,0
+"998","Puddleton",998,"bear",1,1
+"999","Puddleton",999,"tiger",0,0
+"1000","Puddleton",1000,"bear",1,0
+"1001","Puddleton",1001,"tiger",0,0
+"1002","Puddleton",1002,"bear",0,1
+"1003","Puddleton",1003,"tiger",1,0
+"1004","Puddleton",1004,"tiger",0,0
+"1005","Puddleton",1005,"bear",0,1
+"1006","Puddleton",1006,"tiger",1,1
+"1007","Puddleton",1007,"bear",0,0
+"1008","Puddleton",1008,"bear",0,0
+"1009","Puddleton",1009,"bear",0,0
+"1010","Puddleton",1010,"tiger",1,1
+"1011","Puddleton",1011,"tiger",0,1
+"1012","Puddleton",1012,"tiger",0,0
+"1013","Puddleton",1013,"bear",0,1
+"1014","Puddleton",1014,"bear",1,1
+"1015","Puddleton",1015,"bear",0,1
+"1016","Puddleton",1016,"bear",0,1
+"1017","Puddleton",1017,"tiger",1,0
+"1018","Puddleton",1018,"tiger",0,0
+"1019","Puddleton",1019,"tiger",1,0
+"1020","Puddleton",1020,"tiger",0,0
+"1021","Puddleton",1021,"bear",0,0
+"1022","Puddleton",1022,"tiger",0,1
+"1023","Puddleton",1023,"tiger",0,0
+"1024","Puddleton",1024,"bear",0,0
+"1025","Puddleton",1025,"bear",1,1
+"1026","Puddleton",1026,"bear",0,0
+"1027","Puddleton",1027,"bear",1,1
+"1028","Puddleton",1028,"tiger",0,1
+"1029","Puddleton",1029,"bear",0,1
+"1030","Puddleton",1030,"tiger",1,1
+"1031","Puddleton",1031,"tiger",0,1
+"1032","Puddleton",1032,"bear",0,1
+"1033","Puddleton",1033,"bear",0,0
+"1034","Puddleton",1034,"bear",0,1
+"1035","Puddleton",1035,"tiger",1,1
+"1036","Puddleton",1036,"bear",0,0
+"1037","Puddleton",1037,"tiger",1,1
+"1038","Puddleton",1038,"tiger",0,1
+"1039","Puddleton",1039,"tiger",1,0
+"1040","Puddleton",1040,"bear",1,1
+"1041","Puddleton",1041,"tiger",1,0
+"1042","Puddleton",1042,"bear",0,1
+"1043","Puddleton",1043,"tiger",1,1
+"1044","Puddleton",1044,"tiger",1,0
+"1045","Puddleton",1045,"tiger",1,0
+"1046","Puddleton",1046,"bear",0,1
+"1047","Puddleton",1047,"tiger",0,0
+"1048","Puddleton",1048,"tiger",1,1
+"1049","Puddleton",1049,"bear",1,1
+"1050","Puddleton",1050,"tiger",1,0
+"1051","Puddleton",1051,"tiger",1,1
+"1052","Puddleton",1052,"bear",0,1
+"1053","Puddleton",1053,"bear",0,1
+"1054","Puddleton",1054,"bear",0,0
+"1055","Puddleton",1055,"tiger",0,1
+"1056","Puddleton",1056,"bear",0,0
+"1057","Puddleton",1057,"bear",0,1
+"1058","Puddleton",1058,"bear",1,1
+"1059","Puddleton",1059,"bear",1,1
+"1060","Puddleton",1060,"tiger",0,0
+"1061","Puddleton",1061,"bear",0,0
+"1062","Rabbit City",1062,"bear",1,0
+"1063","Rabbit City",1063,"bear",1,1
+"1064","Rabbit City",1064,"bear",0,0
+"1065","Rabbit City",1065,"bear",1,1
+"1066","Rabbit City",1066,"tiger",0,1
+"1067","Rabbit City",1067,"bear",0,1
+"1068","Rabbit City",1068,"tiger",0,0
+"1069","Rabbit City",1069,"bear",0,0
+"1070","Rabbit City",1070,"tiger",0,1
+"1071","Rabbit City",1071,"bear",1,1
+"1072","Rabbit City",1072,"bear",0,0
+"1073","Rabbit City",1073,"bear",1,1
+"1074","Rabbit City",1074,"bear",0,0
+"1075","Rabbit City",1075,"bear",0,0
+"1076","Rabbit City",1076,"bear",0,0
+"1077","Rabbit City",1077,"tiger",0,0
+"1078","Rabbit City",1078,"bear",0,0
+"1079","Rabbit City",1079,"bear",1,1
+"1080","Rabbit City",1080,"bear",0,1
+"1081","Rabbit City",1081,"bear",1,1
+"1082","Rabbit City",1082,"tiger",0,0
+"1083","Rabbit City",1083,"tiger",0,0
+"1084","Rabbit City",1084,"bear",0,1
+"1085","Rabbit City",1085,"tiger",0,0
+"1086","Rabbit City",1086,"bear",1,1
+"1087","Rabbit City",1087,"tiger",1,0
+"1088","Rabbit City",1088,"tiger",1,1
+"1089","Rabbit City",1089,"tiger",1,0
+"1090","Rabbit City",1090,"bear",0,1
+"1091","Rabbit City",1091,"tiger",0,0
+"1092","Rabbit City",1092,"tiger",1,0
+"1093","Rabbit City",1093,"tiger",0,0
+"1094","Rabbit City",1094,"tiger",0,1
+"1095","Rabbit City",1095,"tiger",0,0
+"1096","Rabbit City",1096,"bear",1,0
+"1097","Rabbit City",1097,"tiger",0,0
+"1098","Rabbit City",1098,"bear",0,1
+"1099","Rabbit City",1099,"bear",1,1
+"1100","Rabbit City",1100,"tiger",0,0
+"1101","Rabbit City",1101,"bear",1,1
+"1102","Rabbit City",1102,"bear",1,1
+"1103","Rabbit City",1103,"tiger",1,0
+"1104","Rabbit City",1104,"tiger",0,0
+"1105","Rabbit City",1105,"bear",1,1
+"1106","Rabbit City",1106,"bear",1,0
+"1107","Rabbit City",1107,"bear",1,1
+"1108","Rabbit City",1108,"bear",0,0
+"1109","Rabbit City",1109,"bear",0,0
+"1110","Rabbit City",1110,"bear",1,0
+"1111","Rabbit City",1111,"tiger",0,0
+"1112","Rabbit City",1112,"tiger",1,0
+"1113","Rabbit City",1113,"bear",0,0
+"1114","Rabbit City",1114,"bear",0,0
+"1115","Rabbit City",1115,"tiger",0,0
+"1116","Rabbit City",1116,"bear",1,1
+"1117","Rabbit City",1117,"bear",1,1
+"1118","Rabbit City",1118,"tiger",1,0
+"1119","Rabbit City",1119,"bear",1,0
+"1120","Rabbit City",1120,"bear",1,1
+"1121","Rabbit City",1121,"bear",0,1
+"1122","Rabbit City",1122,"bear",0,1
+"1123","Sandy Pit",1123,"tiger",1,0
+"1124","Sandy Pit",1124,"tiger",0,0
+"1125","Sandy Pit",1125,"bear",0,1
+"1126","Sandy Pit",1126,"bear",1,1
+"1127","Sandy Pit",1127,"tiger",0,0
+"1128","Sandy Pit",1128,"tiger",1,1
+"1129","Sandy Pit",1129,"tiger",1,0
+"1130","Sandy Pit",1130,"tiger",1,1
+"1131","Sandy Pit",1131,"bear",0,1
+"1132","Sandy Pit",1132,"bear",0,1
+"1133","Sandy Pit",1133,"tiger",1,0
+"1134","Sandy Pit",1134,"tiger",1,0
+"1135","Sandy Pit",1135,"tiger",0,0
+"1136","Sandy Pit",1136,"tiger",0,0
+"1137","Sandy Pit",1137,"bear",1,1
+"1138","Sandy Pit",1138,"tiger",0,0
+"1139","Sandy Pit",1139,"bear",1,1
+"1140","Sandy Pit",1140,"tiger",1,1
+"1141","Sandy Pit",1141,"tiger",1,0
+"1142","Sandy Pit",1142,"bear",1,0
+"1143","Sandy Pit",1143,"tiger",1,1
+"1144","Sandy Pit",1144,"tiger",0,0
+"1145","Sandy Pit",1145,"bear",0,0
+"1146","Sandy Pit",1146,"tiger",0,1
+"1147","Sandy Pit",1147,"tiger",0,0
+"1148","Sandy Pit",1148,"tiger",0,0
+"1149","Sandy Pit",1149,"tiger",1,1
+"1150","Sandy Pit",1150,"tiger",1,1
+"1151","Sandy Pit",1151,"tiger",0,0
+"1152","Sandy Pit",1152,"tiger",0,0
+"1153","Sandy Pit",1153,"bear",0,0
+"1154","Sandy Pit",1154,"tiger",1,0
+"1155","Sandy Pit",1155,"tiger",0,0
+"1156","Sandy Pit",1156,"bear",1,1
+"1157","Sandy Pit",1157,"tiger",1,0
+"1158","Sandy Pit",1158,"bear",0,1
+"1159","Sandy Pit",1159,"tiger",0,0
+"1160","Sandy Pit",1160,"tiger",0,1
+"1161","Sandy Pit",1161,"tiger",0,0
+"1162","Sandy Pit",1162,"tiger",0,0
+"1163","Sandy Pit",1163,"tiger",1,0
+"1164","Sandy Pit",1164,"bear",1,1
+"1165","Sandy Pit",1165,"tiger",1,0
+"1166","Sandy Pit",1166,"tiger",0,0
+"1167","Sandy Pit",1167,"bear",1,1
+"1168","Six Pine Trees",1168,"bear",1,0
+"1169","Six Pine Trees",1169,"tiger",0,0
+"1170","Six Pine Trees",1170,"bear",0,1
+"1171","Six Pine Trees",1171,"bear",0,1
+"1172","Six Pine Trees",1172,"bear",1,1
+"1173","Six Pine Trees",1173,"tiger",1,0
+"1174","Six Pine Trees",1174,"tiger",0,0
+"1175","Six Pine Trees",1175,"tiger",0,1
+"1176","Six Pine Trees",1176,"tiger",0,1
+"1177","Six Pine Trees",1177,"bear",1,1
+"1178","Six Pine Trees",1178,"tiger",0,0
+"1179","Six Pine Trees",1179,"tiger",0,0
+"1180","Six Pine Trees",1180,"tiger",0,0
+"1181","Six Pine Trees",1181,"tiger",1,0
+"1182","Six Pine Trees",1182,"bear",1,1
+"1183","Six Pine Trees",1183,"tiger",1,1
+"1184","Six Pine Trees",1184,"tiger",1,0
+"1185","Six Pine Trees",1185,"bear",0,1
+"1186","Six Pine Trees",1186,"bear",1,1
+"1187","Six Pine Trees",1187,"tiger",1,1
+"1188","Six Pine Trees",1188,"tiger",1,0
+"1189","Six Pine Trees",1189,"bear",0,0
+"1190","Six Pine Trees",1190,"tiger",1,0
+"1191","Six Pine Trees",1191,"tiger",0,0
+"1192","Six Pine Trees",1192,"tiger",1,0
+"1193","Six Pine Trees",1193,"tiger",0,0
+"1194","Six Pine Trees",1194,"tiger",0,0
+"1195","Six Pine Trees",1195,"tiger",0,0
+"1196","Six Pine Trees",1196,"tiger",0,0
+"1197","Six Pine Trees",1197,"tiger",0,0
+"1198","Six Pine Trees",1198,"tiger",0,0
+"1199","Six Pine Trees",1199,"bear",1,1
+"1200","Six Pine Trees",1200,"tiger",0,1
+"1201","Six Pine Trees",1201,"tiger",0,0
+"1202","Six Pine Trees",1202,"tiger",1,0
+"1203","Six Pine Trees",1203,"bear",1,1
+"1204","Six Pine Trees",1204,"bear",0,0
+"1205","Six Pine Trees",1205,"tiger",0,0
+"1206","Six Pine Trees",1206,"tiger",0,0
+"1207","Six Pine Trees",1207,"bear",1,1
+"1208","Six Pine Trees",1208,"bear",1,1
+"1209","Six Pine Trees",1209,"bear",1,1
+"1210","Six Pine Trees",1210,"tiger",0,0
+"1211","Six Pine Trees",1211,"tiger",0,0
+"1212","Six Pine Trees",1212,"tiger",0,0
+"1213","Streamside",1213,"bear",1,0
+"1214","Streamside",1214,"tiger",1,1
+"1215","Streamside",1215,"tiger",0,0
+"1216","Streamside",1216,"tiger",0,0
+"1217","Streamside",1217,"bear",1,1
+"1218","Streamside",1218,"tiger",1,1
+"1219","Streamside",1219,"tiger",1,0
+"1220","Streamside",1220,"tiger",0,1
+"1221","Streamside",1221,"tiger",1,0
+"1222","Streamside",1222,"tiger",0,0
+"1223","Streamside",1223,"tiger",0,0
+"1224","Streamside",1224,"tiger",1,1
+"1225","Streamside",1225,"bear",1,0
+"1226","Streamside",1226,"bear",1,0
+"1227","Streamside",1227,"bear",1,0
+"1228","Streamside",1228,"bear",0,0
+"1229","Streamside",1229,"bear",1,1
+"1230","Streamside",1230,"tiger",1,0
+"1231","Streamside",1231,"bear",0,0
+"1232","Streamside",1232,"tiger",1,1
+"1233","Streamside",1233,"bear",0,0
+"1234","Streamside",1234,"bear",0,0
+"1235","Streamside",1235,"bear",1,1
+"1236","Streamside",1236,"tiger",0,0
+"1237","Streamside",1237,"tiger",0,0
+"1238","Streamside",1238,"tiger",0,0
+"1239","Streamside",1239,"tiger",0,0
+"1240","Streamside",1240,"tiger",1,0
+"1241","Streamside",1241,"tiger",0,0
+"1242","Streamside",1242,"tiger",0,1
+"1243","Streamside",1243,"bear",1,1
+"1244","Streamside",1244,"tiger",0,1
+"1245","Streamside",1245,"tiger",1,1
+"1246","Streamside",1246,"tiger",0,0
+"1247","Streamside",1247,"bear",0,1
+"1248","Streamside",1248,"tiger",1,0
+"1249","Streamside",1249,"tiger",1,0
+"1250","Streamside",1250,"bear",0,0
+"1251","Sunflower",1251,"tiger",0,0
+"1252","Sunflower",1252,"tiger",1,1
+"1253","Sunflower",1253,"bear",0,0
+"1254","Sunflower",1254,"bear",0,1
+"1255","Sunflower",1255,"bear",1,1
+"1256","Sunflower",1256,"bear",0,1
+"1257","Sunflower",1257,"bear",1,1
+"1258","Sunflower",1258,"bear",0,1
+"1259","Sunflower",1259,"bear",1,1
+"1260","Sunflower",1260,"bear",0,1
+"1261","Sunflower",1261,"bear",0,0
+"1262","Sunflower",1262,"tiger",0,0
+"1263","Sunflower",1263,"bear",0,1
+"1264","Sunflower",1264,"tiger",1,1
+"1265","Sunflower",1265,"bear",0,0
+"1266","Sunflower",1266,"bear",1,1
+"1267","Sunflower",1267,"tiger",0,0
+"1268","Sunflower",1268,"tiger",1,0
+"1269","Sunflower",1269,"tiger",0,1
+"1270","Sunflower",1270,"bear",1,1
+"1271","Sunflower",1271,"tiger",1,1
+"1272","Sunflower",1272,"bear",1,1
+"1273","Sunflower",1273,"bear",1,1
+"1274","Sunflower",1274,"bear",0,0
+"1275","Sunflower",1275,"tiger",0,0
+"1276","Sunflower",1276,"bear",0,0
+"1277","Sunflower",1277,"bear",1,1
+"1278","Sunflower",1278,"bear",0,0
+"1279","Sunflower",1279,"bear",0,1
+"1280","Sunflower",1280,"bear",0,1
+"1281","Sunflower",1281,"tiger",1,1
+"1282","Sunflower",1282,"bear",1,1
+"1283","Sunflower",1283,"bear",0,1
+"1284","Sunflower",1284,"tiger",0,0
+"1285","Sunflower",1285,"tiger",1,1
+"1286","Sunflower",1286,"bear",0,1
+"1287","Sunflower",1287,"bear",0,1
+"1288","Sunflower",1288,"bear",0,0
+"1289","Sunflower",1289,"bear",0,1
+"1290","Sunflower",1290,"tiger",0,0
+"1291","Sunflower",1291,"tiger",1,1
+"1292","Sunflower",1292,"tiger",1,1
+"1293","Sunflower",1293,"bear",1,1
+"1294","Sunflower",1294,"bear",0,0
+"1295","Sunflower",1295,"bear",0,0
+"1296","Sunflower",1296,"tiger",0,0
+"1297","Sunflower",1297,"bear",0,0
+"1298","Sunflower",1298,"bear",0,0
+"1299","Sunflower",1299,"bear",1,1
+"1300","Sunflower",1300,"bear",0,1
+"1301","Sunflower",1301,"bear",0,1
+"1302","Sunflower",1302,"bear",1,1
+"1303","Sunflower",1303,"tiger",0,1
+"1304","Sunflower",1304,"tiger",0,0
+"1305","Sunflower",1305,"tiger",0,0
+"1306","Sunflower",1306,"tiger",1,0
+"1307","Sunflower",1307,"bear",1,1
+"1308","Sunflower",1308,"bear",1,1
+"1309","Sunflower",1309,"bear",0,0
+"1310","Sunflower",1310,"tiger",1,1
+"1311","Sunflower",1311,"bear",1,0
+"1312","Sunflower",1312,"tiger",0,0
+"1313","Sunflower",1313,"tiger",1,0
+"1314","Sunflower",1314,"tiger",1,0
+"1315","Sunflower",1315,"tiger",0,0
+"1316","Sunflower",1316,"tiger",0,0
+"1317","Sunflower",1317,"bear",0,1
+"1318","Sunflower",1318,"bear",1,1
+"1319","Sunflower",1319,"bear",0,1
+"1320","Sunflower",1320,"tiger",0,0
+"1321","Sunflower",1321,"bear",1,1
+"1322","Sunflower",1322,"bear",1,0
+"1323","Sunflower",1323,"bear",1,1
+"1324","Sunflower",1324,"bear",1,1
+"1325","Sunflower",1325,"tiger",0,0
+"1326","Sunflower",1326,"tiger",0,0
+"1327","Sycamore",1327,"tiger",1,1
+"1328","Sycamore",1328,"bear",0,1
+"1329","Sycamore",1329,"bear",0,1
+"1330","Sycamore",1330,"bear",1,0
+"1331","Sycamore",1331,"tiger",1,1
+"1332","Sycamore",1332,"bear",0,0
+"1333","Sycamore",1333,"tiger",0,1
+"1334","Sycamore",1334,"tiger",1,0
+"1335","Sycamore",1335,"bear",1,1
+"1336","Sycamore",1336,"tiger",1,1
+"1337","Sycamore",1337,"bear",0,0
+"1338","Sycamore",1338,"bear",0,1
+"1339","Sycamore",1339,"bear",1,1
+"1340","Sycamore",1340,"bear",0,1
+"1341","Sycamore",1341,"bear",0,1
+"1342","Sycamore",1342,"bear",0,1
+"1343","Sycamore",1343,"bear",1,1
+"1344","Sycamore",1344,"bear",0,1
+"1345","Sycamore",1345,"bear",0,1
+"1346","Sycamore",1346,"bear",0,1
+"1347","Sycamore",1347,"bear",0,1
+"1348","Sycamore",1348,"tiger",0,0
+"1349","Sycamore",1349,"bear",0,1
+"1350","Sycamore",1350,"bear",1,0
+"1351","Sycamore",1351,"bear",0,0
+"1352","Sycamore",1352,"bear",0,1
+"1353","Sycamore",1353,"tiger",1,1
+"1354","Sycamore",1354,"bear",1,1
+"1355","Sycamore",1355,"tiger",0,0
+"1356","Sycamore",1356,"tiger",0,1
+"1357","Sycamore",1357,"bear",1,1
+"1358","Sycamore",1358,"bear",0,1
+"1359","Sycamore",1359,"tiger",1,1
+"1360","Sycamore",1360,"bear",1,1
+"1361","Sycamore",1361,"bear",0,0
+"1362","Sycamore",1362,"bear",1,1
+"1363","Sycamore",1363,"bear",1,0
+"1364","Sycamore",1364,"tiger",1,1
+"1365","Sycamore",1365,"bear",1,0
+"1366","Sycamore",1366,"bear",0,1
+"1367","Sycamore",1367,"bear",1,0
+"1368","Sycamore",1368,"bear",0,0
+"1369","Sycamore",1369,"bear",1,0
+"1370","Sycamore",1370,"bear",1,1
+"1371","Sycamore",1371,"bear",1,0
+"1372","Sycamore",1372,"bear",1,1
+"1373","Sycamore",1373,"tiger",1,0
+"1374","Sycamore",1374,"bear",0,0
+"1375","Sycamore",1375,"bear",1,1
+"1376","Sycamore",1376,"tiger",0,0
+"1377","Sycamore",1377,"tiger",1,0
+"1378","Sycamore",1378,"bear",0,1
+"1379","Sycamore",1379,"bear",1,0
+"1380","Sycamore",1380,"bear",0,1
+"1381","Sycamore",1381,"tiger",1,1
+"1382","Sycamore",1382,"bear",1,1
+"1383","Sycamore",1383,"bear",0,0
+"1384","Sycamore",1384,"bear",1,0
+"1385","Sycamore",1385,"bear",1,1
+"1386","Sycamore",1386,"bear",1,0
+"1387","Sycamore",1387,"bear",1,1
+"1388","Sycamore",1388,"bear",0,0
+"1389","Sycamore",1389,"bear",0,0
+"1390","Sycamore",1390,"tiger",0,0
+"1391","Sycamore",1391,"bear",0,0
+"1392","Sycamore",1392,"bear",1,1
+"1393","Sycamore",1393,"bear",1,0
+"1394","Sycamore",1394,"tiger",1,1
+"1395","Sycamore",1395,"bear",1,1
+"1396","Sycamore",1396,"tiger",1,0
+"1397","Sycamore",1397,"bear",1,0
+"1398","Sycamore",1398,"tiger",0,0
+"1399","Sycamore",1399,"tiger",1,0
+"1400","Sycamore",1400,"tiger",1,0
+"1401","Sycamore",1401,"bear",0,0
+"1402","Sycamore",1402,"tiger",0,0
+"1403","Sycamore",1403,"bear",1,1
+"1404","Sycamore",1404,"tiger",1,1
+"1405","Sycamore",1405,"tiger",0,0
+"1406","Sycamore",1406,"bear",0,1
+"1407","Sycamore",1407,"bear",1,1
+"1408","Sycamore",1408,"tiger",1,1
+"1409","Sycamore",1409,"tiger",1,0
+"1410","Sycamore",1410,"bear",1,1
+"1411","Sycamore",1411,"bear",1,1
+"1412","Sycamore",1412,"bear",0,1
+"1413","Sycamore",1413,"tiger",1,1
+"1414","Sycamore",1414,"bear",1,1
+"1415","Sycamore",1415,"tiger",1,1
+"1416","Sycamore",1416,"tiger",0,0
+"1417","Sycamore",1417,"bear",1,1
+"1418","Woozleburg",1418,"bear",1,0
+"1419","Woozleburg",1419,"bear",1,0
+"1420","Woozleburg",1420,"tiger",0,1
+"1421","Woozleburg",1421,"tiger",1,0
+"1422","Woozleburg",1422,"tiger",0,1
+"1423","Woozleburg",1423,"bear",0,0
+"1424","Woozleburg",1424,"tiger",1,1
+"1425","Woozleburg",1425,"bear",1,1
+"1426","Woozleburg",1426,"bear",1,1
+"1427","Woozleburg",1427,"bear",1,1
+"1428","Woozleburg",1428,"bear",1,1
+"1429","Woozleburg",1429,"tiger",1,1
+"1430","Woozleburg",1430,"tiger",1,1
+"1431","Woozleburg",1431,"tiger",1,0
+"1432","Woozleburg",1432,"bear",0,1
+"1433","Woozleburg",1433,"bear",0,1
+"1434","Woozleburg",1434,"bear",0,0
+"1435","Woozleburg",1435,"bear",1,1
+"1436","Woozleburg",1436,"bear",1,1
+"1437","Woozleburg",1437,"tiger",0,1
+"1438","Woozleburg",1438,"bear",1,1
+"1439","Woozleburg",1439,"bear",1,1
+"1440","Woozleburg",1440,"bear",0,1
+"1441","Woozleburg",1441,"bear",0,1
+"1442","Woozleburg",1442,"tiger",0,1
+"1443","Woozleburg",1443,"bear",1,1
+"1444","Woozleburg",1444,"bear",1,1
+"1445","Woozleburg",1445,"bear",0,0
+"1446","Woozleburg",1446,"bear",1,1
+"1447","Woozleburg",1447,"tiger",1,1
+"1448","Woozleburg",1448,"bear",0,1
+"1449","Woozleburg",1449,"bear",1,1
+"1450","Woozleburg",1450,"bear",1,1
+"1451","Woozleburg",1451,"tiger",0,0
+"1452","Woozleburg",1452,"tiger",0,0
+"1453","Woozleburg",1453,"tiger",1,1
+"1454","Woozleburg",1454,"bear",1,1
+"1455","Woozleburg",1455,"bear",0,0
+"1456","Woozleburg",1456,"bear",0,0
+"1457","Woozleburg",1457,"bear",1,1
+"1458","Woozleburg",1458,"tiger",1,0
+"1459","Woozleburg",1459,"bear",1,0
+"1460","Woozleburg",1460,"bear",1,1
+"1461","Woozleburg",1461,"bear",0,1
+"1462","Woozleburg",1462,"bear",0,1
+"1463","Woozleburg",1463,"bear",1,1
+"1464","Woozleburg",1464,"tiger",1,1
+"1465","Woozleburg",1465,"bear",0,0
+"1466","Woozleburg",1466,"bear",0,1
+"1467","Woozleburg",1467,"tiger",1,1
+"1468","Woozleburg",1468,"bear",0,0
+"1469","Woozleburg",1469,"bear",0,0
+"1470","Woozleburg",1470,"bear",1,0
+"1471","Woozleburg",1471,"bear",1,0
+"1472","Woozleburg",1472,"tiger",0,1
+"1473","Woozleburg",1473,"bear",1,0
+"1474","Woozleburg",1474,"tiger",0,0
+"1475","Woozleburg",1475,"tiger",1,0
+"1476","Woozleburg",1476,"bear",1,1
+"1477","Woozleburg",1477,"bear",0,0
+"1478","Woozleburg",1478,"tiger",1,0
+"1479","Woozleburg",1479,"tiger",0,0
+"1480","Woozleburg",1480,"bear",1,0
+"1481","Woozleburg",1481,"tiger",1,0
+"1482","Woozleburg",1482,"tiger",0,0
+"1483","Woozleburg",1483,"bear",1,1
+"1484","Woozleburg",1484,"tiger",1,1
+"1485","Woozleburg",1485,"bear",0,1
+"1486","Woozleburg",1486,"bear",1,1
+"1487","Woozleburg",1487,"bear",0,1
+"1488","Woozleburg",1488,"bear",0,1
+"1489","Woozleburg",1489,"tiger",1,1
+"1490","Woozleburg",1490,"bear",1,1
+"1491","Woozleburg",1491,"bear",0,1
+"1492","Woozleburg",1492,"bear",0,1
+"1493","Woozleburg",1493,"bear",0,1
+"1494","Woozleburg",1494,"bear",0,1
+"1495","Woozleburg",1495,"bear",1,0
+"1496","Woozleburg",1496,"bear",0,1
+"1497","Woozleburg",1497,"bear",1,1
+"1498","Woozleburg",1498,"tiger",1,1
+"1499","Woozleburg",1499,"bear",1,1
+"1500","Woozleburg",1500,"bear",1,1
