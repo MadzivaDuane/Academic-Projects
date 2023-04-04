@@ -1,5 +1,5 @@
 #Halibut Fish Survival
-file <- "~/Documents/Academics/Other/BIS 505 Biostats for PH II/Datasets/halibut.csv"
+file <- "~/Documents/.../halibut.csv"
 halibut_survival <- read.csv(file); head(halibut_survival); head(halibut_survival); dim(halibut_survival)
 
 #Cox proportional regression model: http://www.karlin.mff.cuni.cz/~pesta/NMFM404/ph.html
