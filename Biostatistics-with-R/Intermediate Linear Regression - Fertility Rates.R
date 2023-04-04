@@ -2,7 +2,7 @@
 #Fertility Rates in Switzerland
 
 #read in data 
-data <- read.csv("~/Documents/Academics/Other/BIS 505 Biostats for PH II/Datasets/fertility rates.csv"); head(data); dim(data)
+data <- read.csv("~/Documents/.../fertility rates.csv"); head(data); dim(data)
 #rename colums
 fertility_rates <- data
 names(fertility_rates) <- c("Province", "Fertility_Rate", "% Population with Agriculture Occupation",
