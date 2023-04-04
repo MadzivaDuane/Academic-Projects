@@ -1,4 +1,4 @@
-libname dataset "C:\Users\dkm33\Documents";
+libname dataset "C:\Users\...";
 proc contents data = dataset.labdata; run;
 
 /*part 1*/
