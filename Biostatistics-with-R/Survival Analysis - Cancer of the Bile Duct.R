@@ -1,5 +1,5 @@
 #Cancer of the Bile Duct
-file <- "~/Documents/Academics/Other/BIS 505 Biostats for PH II/Datasets/survival.txt"
+file <- "~/Documents/.../survival.txt"
 survival <- read.table(file, header = FALSE, sep = "")
 colnames(survival) <- c("Time", "Censored", "Treatment"); head(survival); dim(survival)
 
